@@ -7,3 +7,12 @@ C:\Users\elias\Source\Repos\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.Co
 C:\Users\elias\Source\Repos\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\elias\Source\Repos\ejemplos-ado-net\negocio\obj\Debug\negocio.dll
 C:\Users\elias\Source\Repos\ejemplos-ado-net\negocio\obj\Debug\negocio.pdb
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\bin\Debug\negocio.dll
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\bin\Debug\negocio.pdb
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\bin\Debug\dominio.dll
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\bin\Debug\dominio.pdb
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\obj\Debug\negocio.dll
+C:\Users\elias\OneDrive\Escritorio\Pokedex-web\negocio\obj\Debug\negocio.pdb
